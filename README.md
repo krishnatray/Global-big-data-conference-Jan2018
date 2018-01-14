@@ -1,3 +1,3 @@
-# AI_Frontiers_Conf_Nov2017
+# Global-big-data-conference-Jan2018
 
 Here are the files that I used during workshop.
